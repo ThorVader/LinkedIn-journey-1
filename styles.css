@@ -1,0 +1,58 @@
+body{
+    font-size: 1.25rem;
+    color: #707070;
+   
+}
+
+.container{
+    margin: 0 auto;
+    max-width: 980px;
+    width: 95%;
+    border: #B7832F 2px solid;
+    
+}
+
+/*Typography*/
+h1{
+    font-size: 3rem;
+    color: #212614;
+    text-align: center;
+    padding-bottom: 15px;
+    margin-right: 35px;
+}
+
+h2{
+    font-size: 1.5rem;
+    padding-top: 10px;
+    color: #B7832F;
+}
+
+.build{
+    color: #B7832F;
+}
+/*Layout*/
+
+img{
+    max-width: 100%;
+}
+
+
+
+.container-grid{
+    max-width: 815px;
+}
+
+.col3{
+    background-color: #B7832F;
+    color: azure;
+    margin-top: 10px;
+
+}
+
+.h3{
+    color: azure;
+}
+
+col-md-4{
+    margin-top: 10px;
+}
